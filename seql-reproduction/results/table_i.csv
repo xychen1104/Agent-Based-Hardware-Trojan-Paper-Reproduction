@@ -1,0 +1,17 @@
+fi1_sq1_fi0_sq0,scan_correct,functional_correct
+0000,True,True
+0001,False,True
+0010,False,False
+0011,True,False
+0100,False,True
+0101,False,True
+0110,False,False
+0111,False,False
+1000,False,False
+1001,False,False
+1010,False,False
+1011,False,False
+1100,False,False
+1101,True,False
+1110,True,False
+1111,False,False

@@ -1,0 +1,3 @@
+PASS Table I: 16 assignments, 4 scan-correct, 4 functional-correct, 1 both
+PASS SeqL scaling: 1 common assignment out of 2^n scan-correct assignments (n=1..8)
+PASS 8192 three-cell mode, polarity, key, and capture-word checks
